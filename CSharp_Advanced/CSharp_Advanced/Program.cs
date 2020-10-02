@@ -12,6 +12,7 @@ namespace CSharp_Advanced
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World");
         }
     }
 }
