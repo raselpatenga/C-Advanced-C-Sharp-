@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Advanced", "CSharp_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{1EEAE071-7299-4D4F-AC40-D2AD3EB9E75C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{B8775CB2-5FD9-4C72-94F4-977338483290}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1EEAE071-7299-4D4F-AC40-D2AD3EB9E75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EEAE071-7299-4D4F-AC40-D2AD3EB9E75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EEAE071-7299-4D4F-AC40-D2AD3EB9E75C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8775CB2-5FD9-4C72-94F4-977338483290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8775CB2-5FD9-4C72-94F4-977338483290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8775CB2-5FD9-4C72-94F4-977338483290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8775CB2-5FD9-4C72-94F4-977338483290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
